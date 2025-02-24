@@ -4,20 +4,20 @@ keywords:
   - API Documentation
   - UXP
   - Plugin
-title: Adobe UXP Developer Tool
-description: The Adobe UXP Developer Tool makes it easy to create, load, debug, and package UXP-based plugins for Adobe XD.
+Title: Adobe UXP Developer Tool
+Description: The Adobe UXP Developer Tool makes it easy to create, load, debug, and package UXP-based plugins for Adobe XD.
 contributors:
   - https://github.com/kerrishotts
 ---
 
 # Adobe UXP Developer Tool
 
-The Adobe UXP Developer Tool makes it easy to create, load, debug, and package UXP-based plugins.
+The Adobe UXP Developer Tool makes creating, loading, debugging, and packaging UXP-based plugins easy.
 
 
 ## Overview
 
-The Adobe UXP Developer Tool allows you to manage plugins that you are developing for Adobe XD (and other UXP-powered host applications). This tool makes it easy to create plugins based on templates, and also load and debug plugins that you're building.
+The Adobe UXP Developer Tool allows you to manage plugins you are developing for Adobe XD (and other UXP-powered host applications). This tool makes it easy to create plugins based on templates and also load and debug plugins you're building.
 
 <InlineAlert variant="info" slots="text"/>
 
@@ -25,7 +25,7 @@ The Adobe UXP Developer Tool allows you to manage plugins that you are developin
 The Adobe UXP Developer Tool requires elevated privileges in order to function correctly. If your administrator does not enable your ability to elevate to Administrator privileges, you'll be unable to use this tool.
 
 ## Installation
-The Adobe UXP Developer Tools can be installed from the Adobe Creative Cloud application. For more details on installation steps refer the [Installation guide](installation/). 
+The Adobe UXP Developer Tools can be installed from the Adobe Creative Cloud application. For more details on installation steps refer to the [Installation guide](installation/). 
 
 ## Usage
 
